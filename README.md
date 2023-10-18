@@ -7,8 +7,11 @@ Tenho 20 anos e estou cursando Sistema De Informações 💻😄
 <a href="https://www.linkedin.com/in/vagner-carvalho-4b0791249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-
+<div>
 ![VagnerCode GitHub stats](https://github-readme-stats.vercel.app/api?username=VagnerCode&show_icons=true&theme=dracula)
+
+  <img height ="172em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNLuz&layout=compact&langs_count=168&theme=dark">
+</div>
 
 ## Tecnologias que eu estou usando/aprendendo no meu dia!
 
