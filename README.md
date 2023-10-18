@@ -9,7 +9,6 @@ Tenho 20 anos e estou cursando Sistema De Informações 💻😄
 
 ![VagnerCode GitHub stats](https://github-readme-stats.vercel.app/api?username=VagnerCode&show_icons=true&theme=dracula)
 
-  <img height ="172em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNLuz&layout=compact&langs_count=168&theme=dark">
 
 
 ## Tecnologias que eu estou usando/aprendendo no meu dia!
