@@ -1,6 +1,5 @@
-
 <div align="center">
-  <h1>Prazer 🙏 Eu sou Vagner</h1>
+  <h1>Prazer 🙏🏿 Eu sou Vagner</h1>
 </div>
 
 <p align="center">
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center">
- <em>Estou atualmente focado em aprimorar minhas habilidades de desenvolvimento de software, explorando novas tecnologias e construindo uma base sólida. Sou apaixonado por criar soluções eficientes e inovadoras.</em>
+  <em>Estou atualmente focado em aprimorar minhas habilidades de desenvolvimento de software, explorando novas tecnologias e construindo uma base sólida. Sou apaixonado por criar soluções eficientes e inovadoras.</em>
 </p>
 
 <br/>
@@ -18,23 +17,24 @@
 <td width="60%" valign="top">
 <h2>💫 About Me</h2>
 <ul>
-<li>🔭 Atualmente trabalhando em projetos pessoais e freelance.</li>
+<li>🔭 Atualmente trabalhando em projetos pessoais.</li>
 <li>🌱 Aprendendo e aprofundando conhecimentos em <strong>Fullstack Development</strong>.</li>
 <li>👯 Procuro colaborar em projetos open source.</li>
 <li>💻 Minhas áreas de interesse incluem Web, Mobile e Backend.</li>
 <li>⚡ <strong>Fato curioso:</strong> Adoro resolver problemas complexos com código limpo.</li>
 </ul>
+
 <h3>📫 Connect Me:</h3>
 <p align="left">
-<a href="mailto:vagnercode@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/vagner-carvalho-3b7405325/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/_vagnaoo_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+  <a href="mailto:vagnercode@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vagner-carvalho-3b7405325/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_vagnaoo_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
+  </a>
 </p>
 </td>
 <td width="40%" align="center">
@@ -91,8 +91,8 @@
 
 <h2 align="center">Support Me 🔥</h2>
 <div align="center">
-  <a href="https://nubank.com.br/cobrar/4k26fh/69140ce5-d67e-4019-9015-4032a947a773">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  <a href="https://nubank.com.br/cobrar/4k26fh/69140ce5-d67e-4019-9015-4032a947a773" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Pix-820AD1?style=for-the-badge&logo=nubank&logoColor=white" alt="Meu Pix Nubank"/>
   </a>
 </div>
 
