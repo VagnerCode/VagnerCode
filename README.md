@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="./assets/banner-top.jpg" width="100%" style="border-radius: 10px;" alt="Banner Topo"/>
-</div>
-
-<br/>
 
 <div align="center">
   <h1>Prazer 🙏 Eu sou Vagner</h1>
