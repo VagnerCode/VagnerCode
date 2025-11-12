@@ -26,15 +26,7 @@
 
 <h3>📫 Connect Me:</h3>
 <p align="left">
-  <a href="mailto:vagnercode@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vagner-carvalho-3b7405325/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_vagnaoo_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
-  </a>
+  <a href="mailto:vagnercode@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vagner-carvalho-3b7405325/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/_vagnaoo_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/></a>
 </p>
 </td>
 <td width="40%" align="center">
@@ -47,12 +39,7 @@
 
 <h2 align="center">📉 Github Status</h2>
 <div align="center">
-  <a href="https://github.com/VagnerCode">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VagnerCode&show_icons=true&theme=dracula&hide_border=true" height="180" alt="VagnerCode Stats" />
-  </a>
-  <a href="https://github.com/VagnerCode">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerCode&layout=compact&theme=dracula&hide_border=true" height="180" alt="VagnerCode Languages" />
-  </a>
+  <a href="https://github.com/VagnerCode"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VagnerCode&show_icons=true&theme=dracula&hide_border=true" height="180" alt="VagnerCode Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/VagnerCode"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerCode&layout=compact&theme=dracula&hide_border=true" height="180" alt="VagnerCode Languages" /></a>
 </div>
 
 <br/>
@@ -68,12 +55,7 @@
 
 <h2 align="center">⭐ Best Repositories</h2>
 <div align="center">
-<a href="https://github.com/VagnerCode/TCC-Aplicativo-Seguranca-Saude-Mulher">
-    <img align="center" src="./assets/projeto-1.png" />
-  </a>
-  <a href="https://github.com/VagnerCode/PortFolio">
-    <img align="center" src="./assets/projeto-2.png" />
-  </a>
+<a href="https://github.com/VagnerCode/TCC-Aplicativo-Seguranca-Saude-Mulher"><img align="center" src="./assets/projeto-1.png" /></a>&nbsp;&nbsp;<a href="https://github.com/VagnerCode/PortFolio"><img align="center" src="./assets/projeto-2.png" /></a>
 </div>
 
 <br/>
