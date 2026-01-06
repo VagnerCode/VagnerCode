@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Prazer 🙏🏿 Eu sou Vagner</h1>
+  <h1>Hi 🙏 I'm Vagner</h1>
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Estou atualmente focado em aprimorar minhas habilidades de desenvolvimento de software, explorando novas tecnologias e construindo uma base sólida. Sou apaixonado por criar soluções eficientes e inovadoras.</em>
+  <em>I am currently focused on improving my software development skills, exploring new technologies, and building a solid foundation. I am passionate about creating efficient and innovative solutions.</em>
 </p>
 
 <br/>
@@ -17,14 +17,14 @@
 <td width="60%" valign="top">
 <h2>💫 About Me</h2>
 <ul>
-<li>🔭 Atualmente trabalhando em projetos pessoais.</li>
-<li>🌱 Aprendendo e aprofundando conhecimentos em <strong>Fullstack Development</strong>.</li>
-<li>👯 Procuro colaborar em projetos open source.</li>
-<li>💻 Minhas áreas de interesse incluem Web, Mobile e Backend.</li>
-<li>⚡ <strong>Fato curioso:</strong> Adoro resolver problemas complexos com código limpo.</li>
+<li>🔭 Currently working on personal projects.</li>
+<li>🌱 Deepening my knowledge in <strong>Fullstack Development</strong>.</li>
+<li>👯 Looking to collaborate on open source projects.</li>
+<li>💻 Interests: Web, Mobile, and Backend Development.</li>
+<li>⚡ <strong>Fun fact:</strong> I love solving complex problems with clean code.</li>
 </ul>
 
-<h3>📫 Connect Me:</h3>
+<h3>📫 Connect with me:</h3>
 <p align="left">
   <a href="mailto:vagnercode@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vagner-carvalho-3b7405325/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/_vagnaoo_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/></a>
 </p>
@@ -37,17 +37,17 @@
 
 <br/>
 
-<h2 align="center">📉 Github Status</h2>
+<h2 align="center">📊 Github Status</h2>
 <div align="center">
   <a href="https://github.com/VagnerCode"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VagnerCode&show_icons=true&theme=dracula&hide_border=true" height="180" alt="VagnerCode Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/VagnerCode"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerCode&layout=compact&theme=dracula&hide_border=true" height="180" alt="VagnerCode Languages" /></a>
 </div>
 
 <br/>
 
-<h2 align="center">🛠 Languages & Tools</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,css,tailwind,java,php,expo&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,django,js,ts,php,java,tailwind,git,github&theme=dark" />
   </a>
 </div>
 
@@ -60,26 +60,15 @@
 
 <br/>
 
-<h2 align="center">💻 Tech Stack</h2>
-<div align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-<br/>
-
 <h2 align="center">Support Me 🔥</h2>
 <div align="center">
   <a href="https://nubank.com.br/cobrar/4k26fh/69140ce5-d67e-4019-9015-4032a947a773" target="_blank">
-    <img src="https://img.shields.io/badge/Meu_Pix-820AD1?style=for-the-badge&logo=nubank&logoColor=white" alt="Meu Pix Nubank"/>
+    <img src="https://img.shields.io/badge/Support_via_Pix-820AD1?style=for-the-badge&logo=nubank&logoColor=white" alt="Pix Support"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/banner-low.gif" width="100%" style="border-radius: 10px;" alt="Banner Final"/>
+  <img src="./assets/banner-low.gif" width="100%" style="border-radius: 10px;" alt="Final Banner"/>
 </div>
